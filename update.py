@@ -10,7 +10,7 @@ SOURCE_URL = (
 GIST_ID = os.environ["GIST_ID"]
 GITHUB_TOKEN = os.environ["GITHUB_TOKEN"]
 
-GIST_FILENAME = "configs.txt"
+GIST_FILENAME = "lunexis.txt"
 
 
 def main():
